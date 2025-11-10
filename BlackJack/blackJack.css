@@ -1,0 +1,34 @@
+
+body{
+    background-image: url("green_Table.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    color:rgb(255, 255, 255);
+}
+h1{
+    color:goldenrod;
+
+}
+#message-el{
+    font-style:italic;
+}
+.btn
+{
+    background-color:goldenrod;
+    width:150px;
+    color:#016f32;
+    padding:5px;
+    border-radius:5px;
+    border-width:0px;
+    font-weight: bold;
+    
+}
+#new
+{
+    margin-bottom: 5px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
